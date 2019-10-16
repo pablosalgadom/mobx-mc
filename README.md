@@ -1,7 +1,5 @@
 ![](https://img.shields.io/npm/v/mobx-mc) ![CircleCI](https://img.shields.io/circleci/build/github/rakenapp/mobx-mc)
 
-[TOC]
-
 ## Installation
 
 `npm install mobx-mc`
